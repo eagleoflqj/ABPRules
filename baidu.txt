@@ -20,3 +20,8 @@ zhidao.baidu.com##.jump-task-list
 zhidao.baidu.com##.nav-menu-container
 zhidao.baidu.com##.shop-entrance
 zhidao.baidu.com##.wgt-footer-new
+jingyan.baidu.com##.magzine-list
+jingyan.baidu.com##.wgt-feeds-video
+jingyan.baidu.com##.main-aside
+jingyan.baidu.com##.wgt-common-nav
+jingyan.baidu.com###my-income
