@@ -1,3 +1,8 @@
-weibo.com###v6_pl_rightmod_rank
 weibo.com##.title_area>.key
-weibo.com##.WB_right_module
+weibo.com###v6_pl_rightmod_rank
+weibo.com###v6_pl_rightmod_recominfo
+weibo.com##.placeholder
+weibo.com##.gn_topmenulist_search
+weibo.com###v6_trustPagelet_recom_member
+weibo.com###v6_pl_rightmod_noticeboard
+weibo.com###v6_pl_rightmod_attfeed
