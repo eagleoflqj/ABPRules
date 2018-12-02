@@ -17,3 +17,5 @@ Adblocks Plus的自定义规则
 搜索框推荐和下拉热搜 右侧除个人信息以外全部 顶部话题推荐
 ## 知乎
 顶部求你关闭adblocks
+## csdn
+顶部求你关闭adblocks
