@@ -11,6 +11,7 @@ tieba.baidu.com##.nani_app_download_box
 tieba.baidu.com##.search_back_box
 tieba.baidu.com##.showlist_wap
 tieba.baidu.com##.u_member
+tieba.baidu.com##div>div>.ad_bottom_view
 www.baidu.com###content_right
 www.baidu.com##.rrecom-btn-parent
 www.baidu.com##body>.result-op
