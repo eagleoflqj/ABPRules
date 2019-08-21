@@ -4,6 +4,9 @@ baike.baidu.com##.lemmaWgt-promotion-slide
 baike.baidu.com##.tashuo-bottom
 baike.baidu.com##.topA
 baike.baidu.com##.userbar_mall
+baike.baidu.com##.poster-middle
+baike.baidu.com##.side-content>iframe
+baike.baidu.com###side-auth
 tieba.baidu.com##.celebrity
 tieba.baidu.com##.topic_list_box
 tieba.baidu.com##.app_download_box
