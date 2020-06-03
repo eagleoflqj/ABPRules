@@ -18,6 +18,7 @@ tieba.baidu.com##div>div>.ad_bottom_view
 www.baidu.com###content_right
 www.baidu.com##.rrecom-btn-parent
 www.baidu.com##body>.result-op
+www.baidu.com###s-hotsearch-wrapper
 zhidao.baidu.com##.question-number-text-chain
 zhidao.baidu.com##.qb-side
 zhidao.baidu.com##.jump-task-list
