@@ -5,3 +5,4 @@ zhihu.com##.AppHeader-inner > ul > li:nth-child(3)
 zhihu.com##.Topstory-mainColumnCard > .Card a:first-child
 zhihu.com##.Topstory-mainColumnCard > .Card a:last-child
 zhihu.com##.TopstoryPageHeader-main > nav
+zhihu.com##.Recommendations-Main
